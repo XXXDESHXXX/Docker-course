@@ -1,0 +1,2 @@
+Flask==2.3.2
+Psycopg2-binary==2.9.10
